@@ -162,6 +162,7 @@ img {
 
   .row .col-lg-12 {
     max-width: 100% !important;
+    display: block !important;
   }
 }
 
@@ -226,6 +227,7 @@ img {
 
   .row .col-md-12 {
     max-width: 100% !important;
+    display: block !important;
   }
 }
 
@@ -290,6 +292,7 @@ img {
 
   .row .col-sm-12 {
     max-width: 100% !important;
+    display: block !important;
   }
 }
 
